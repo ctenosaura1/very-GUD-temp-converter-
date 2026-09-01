@@ -3,6 +3,7 @@
 *.vcxproj.filters
 *.vcxproj.user
 *.sln
+*.slnx
 .vs/
 out/
 x64/
